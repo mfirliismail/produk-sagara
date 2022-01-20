@@ -1,28 +1,30 @@
 # produk-sagara
 
-##Instalasi
+## Instalasi
 jalankan ```npm install```
 run dengan ```node index.js```
 
-##DOCUMENTATION API
+# DOCUMENTATION API
+https://documenter.getpostman.com/view/17315822/UVXokDaw
 
-LOGIN
+
+# LOGIN
 localhost:5000/api/v1/users/login
 
-REGISTER
+# REGISTER
 localhost:5000/api/v1/users/register
 
-CREATE PRODUK
+# CREATE PRODUK
 localhost:5000/api/v1/produk/create
 
-GET ALL PRODUK
+# GET ALL PRODUK
 localhost:5000/api/v1/produk/get/all
 
-GET ONE PRODUK BY ID PRODUK
+# GET ONE PRODUK BY ID PRODUK
 localhost:5000/api/v1/produk/2
 
-UPDATE PRODUK
+# UPDATE PRODUK
 localhost:5000/api/v1/produk/edit/1
 
-DELETE PRODUK 
+# DELETE PRODUK 
 localhost:5000/api/v1/produk/delete/1
